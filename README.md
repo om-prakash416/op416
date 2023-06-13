@@ -18,3 +18,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--Lists unorder-->
+- George Washington
+* John Adams
++ Thomas Jefferson
+<!--Lists order-->
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+<!--Nested lists-->
+1. First list item
+   - First nested list item
+     - Second nested list item
