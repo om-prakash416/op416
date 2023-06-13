@@ -46,3 +46,52 @@ A footnote can also have multiple lines[^2].
 Let's rename \*our-new-project\* to \*our-old-project\*.
 
 @github/support what do you think about these updates?
+<!-- table-->
+ ## About me
+ Hi,I'm Mona .You might recognize me as GitHub's mascot.
+ 
+ | Rank | lANGUAGES    |
+|-----:|---------------|
+|     1| Jvascript     |
+|     2| Python        |
+|     3|SQL            |
+
+<details>
+  <summary>My top THINGS-TO-RANK</ summary>
+  YOUR TABLE
+  </details>
+  
+  <details open>
+
+  <details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|     2| Python    |
+|     3| SQL       |
+
+</details>
+
+  
+ <!-- quote-->
+  
+ ---
+  >if we pull together and commit ourselves, then we can push through anything.
+  MOna the octocat
+  
+  ##about me
+  
+  <!--comment-->
+  <!-- TO DO: add more details about me later -->
+  
+  ## creating diagrams
+  here is a simple flow chart:
+  ```mermaid
+  graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
+  ```
